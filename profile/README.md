@@ -1,7 +1,17 @@
+![image](https://github.com/cloudback/.github/assets/6689884/0c81ca78-5f70-4f1c-b430-23371a68c9ea)
+
 # What is Cloudback
 
-Cloudback is the [cloud backup](https://en.wikipedia.org/wiki/Remote_backup_service) service for [GitHub repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-repositories). 
+[Cloudback](https://cloudback.it/) is a comprehensive solution for safeguarding your repositories. Automatic daily backups and instant restores of your GitHub repositories, metadata, and even LFS. Back up to any storage you want.
 
-The main feature is the support of [various backup storages](https://docs.github.com/features/various-backup-storages). When user storage is configured we **do not store backup archives** inside Cloudback infrastructure at all. All archives are put into your storage. In case you don't have your own storage there is still an option to use our internal storage called `Cloudback`.
-
-![github-repo-backup](https://user-images.githubusercontent.com/6689884/142473939-c5046e41-6bbb-43a3-8353-42c4c0fe204f.png)
+- SOC2 in progress
+- Automatic backups
+- Self-sufficient password-protected ZIP archives with AES-256 encryption
+- Customer storages: S3, OneDrive, Azure, GCP, Wasabi, Alibaba, etc
+- Cloudback storages: USA, EU, UK, Asia
+- Data deduplication
+- Backup replication
+- Audit log
+- Instant email and messenger notifications: Slack, MS Teams, Discord
+- AWS S3 Object Lock and Tag Support
+- And [many more](https://cloudback.it/)
