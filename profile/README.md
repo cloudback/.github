@@ -1,4 +1,4 @@
-![image](https://github.com/cloudback/.github/assets/6689884/0c81ca78-5f70-4f1c-b430-23371a68c9ea)
+[![image](https://github.com/cloudback/.github/assets/6689884/0c81ca78-5f70-4f1c-b430-23371a68c9ea)](https://github.com/marketplace/cloudback)
 
 # What is Cloudback
 
