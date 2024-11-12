@@ -4,7 +4,7 @@
 
 [Cloudback](https://cloudback.it/) is a comprehensive solution for safeguarding your repositories. Automatic daily backups and instant restores of your GitHub repositories, metadata, and even LFS. Back up to any storage you want.
 
-- SOC2 in progress
+- SOC2 Type II attested
 - Automatic backups
 - Self-sufficient password-protected ZIP archives with AES-256 encryption
 - Customer storages: S3, OneDrive, Azure, GCP, Wasabi, Alibaba, etc
