@@ -1,4 +1,4 @@
-[![image](https://github.com/cloudback/.github/assets/6689884/0c81ca78-5f70-4f1c-b430-23371a68c9ea)](https://github.com/marketplace/cloudback)
+[![image](https://github.com/user-attachments/assets/042a008e-a536-4410-9410-7aef3a478082)](https://github.com/marketplace/cloudback)
 
 # What is Cloudback
 
@@ -7,8 +7,8 @@
 - SOC2 Type II attested
 - Automatic backups
 - Self-sufficient password-protected ZIP archives with AES-256 encryption
-- Customer storages: S3, OneDrive, Azure, GCP, Wasabi, Alibaba, etc
-- Cloudback storages: USA, EU, UK, Asia
+- Use your own storage: AWS S3, OneDrive, Azure, Google Cloud, Wasabi, Alibaba, and more
+- Cloudback regional storage options: USA, EU, UK, Asia
 - Data deduplication
 - Backup replication
 - Audit log
