@@ -1,4 +1,4 @@
-[![image](https://github.com/user-attachments/assets/2ec4bf45-7060-4a87-8912-249e3e997c09)](https://github.com/marketplace/cloudback)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/5c2a647a-31a3-43c9-a956-1f1c8ddaf5df" />
 
 # Cloudback
 
